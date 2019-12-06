@@ -47,7 +47,7 @@ How to run
 ---------------
 **Network Input**
 
-The input of a heterogeneous network consists of node features, node labels and edges between nodes in the HIN. The edges are prefered to saved as sparse adjacency matrixes, each adjacency matrix preserve one type of relationship. Here is an input example of aminer network:
+The input of a heterogeneous network consists of node features, node labels and edges between nodes in the HIN. The edges are preferred to saved as sparse adjacency matrixes, each adjacency matrix preserves one type of relationship. Here is an input example of aminer network:
 ```python
 data = scipy.io.loadmat(Aminer.mat)
 print(data.keys())  # ['__header__', '__version__', '__globals__', 'PvsF', 'AvsF', 'AvsC', 'PvsC', 'PvsA', 'AvsA', 'PvsP'], where '__header__', '__version__' and '__globals__' are automatic generated when save matfile with scipy.io.savemat.
