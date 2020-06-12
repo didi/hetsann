@@ -7,11 +7,11 @@ Huiting Hong, Hantao Guo, Yucheng Lin, Xiaoqing Yang, Zang Li, Jieping Ye. 2020.
 
 HetSANN framework            
 :-------------------------:
-![](https://github.com/didichuxing/hetsann/raw/master/fig/model.png)
+![](https://github.com/didi/hetsann/raw/master/fig/model.png)
 
 Type-aware attention layer (TAL) in HetSANN            
 :-------------------------:
-![](https://github.com/didichuxing/hetsann/raw/master/fig/attention.png)
+![](https://github.com/didi/hetsann/raw/master/fig/attention.png)
 
 
 
